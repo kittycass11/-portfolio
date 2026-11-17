@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="portfolio.xsl"?>
+<portfolio>
+  <meta>
+    <name>Cass</name>
+    <handle>calinos</handle>
+    <age>22</age>
+    <training>DJL</training>
+    <kicker>Portfolio / 2026</kicker>
+    <headline>Cass</headline>
+    <subhead>Still becoming.</subhead>
+    <tagline>Twenty-two, training out of DJL, and building a life that feels like mine. No highlight reel here — just the work, the days, and whatever comes next.</tagline>
+    <photo>cass.jpg</photo>
+    <photoAlt>Portrait of Cass</photoAlt>
+    <email>calinos.cass@gmail.com</email>
+    <description>Cass — 22, training out of DJL. A portfolio built on showing up: honest work, quiet progress, and always becoming.</description>
+    <note>Page still in progress — more soon.</note>
+  </meta>
+
+  <marquee>TRAIN AT DJL &#183; SHOW UP &#183; STAY CURIOUS &#183; KEEP GOING &#183;</marquee>
+
+  <about>
+    <lead>I'm Cass — 22, and I train out of DJL. This is my corner of the internet: honest, unfinished, and always in progress.</lead>
+    <paragraph>I'm not here to perform a perfect version of myself. I'd rather show the real thing — the early starts, the reps that don't feel good, the days I show up anyway. Training taught me that progress is quiet and mostly unglamorous. That's the part I've come to love.</paragraph>
+    <paragraph>Outside of training I'm curious about almost everything: design, music, the small details most people scroll past. I like clean lines, honest work, and people who mean what they say. If that sounds like you, my inbox is always open.</paragraph>
+  </about>
+
+  <quote before="Progress is quiet and mostly" highlight="unglamorous." cite="Cass — 2026"/>
+
+  <now intro="A quick snapshot of where I'm at. It changes — that's the point.">
+    <item label="Name" value="Cass"/>
+    <item label="Handle" value="@calinos"/>
+    <item label="Age" value="22"/>
+    <item label="Currently" value="Training at DJL"/>
+    <item label="Status" value="In progress, on purpose"/>
+  </now>
+
+  <principles intro="Three things I keep coming back to, in training and everywhere else.">
+    <principle number="01" title="Show up" text="The simple part, and the hard part. Get there, do the work, let it count."/>
+    <principle number="02" title="Stay present" text="Notice the day you're actually in. That's where everything happens."/>
+    <principle number="03" title="Keep going" text="Nothing has to be perfect. It just has to keep moving forward."/>
+  </principles>
+
+  <traits intro="The parts that don't fit neatly on a CV.">
+    <trait>Discipline</trait>
+    <trait>Consistency</trait>
+    <trait>Curiosity</trait>
+    <trait>Clean design</trait>
+    <trait>Honest work</trait>
+    <trait>Good energy</trait>
+    <trait>Follow-through</trait>
+  </traits>
+
+  <!-- SELECTED WORK — up to 4 projects. The first becomes the large tile.
+       image = poster image in this folder, video = optional looping MP4 preview, url = optional live link. -->
+  <work>
+    <project number="01" title="Ride the Lollipop Ship" category="Motion / Animation" year="2026" image="lollipop-poster.jpg" video="lollipop-preview.mp4" url="">
+      <summary>A bright, candy-coloured motion piece made to feel playful from the very first frame.</summary>
+    </project>
+    <project number="02" title="Freshly Baked" category="Poster design" year="2026" image="freshly-baked.jpg" url="">
+      <summary>A warm launch poster for a neighbourhood bakery — simple, hungry-making, and honest.</summary>
+    </project>
+    <project number="03" title="Weekend Special" category="Campaign design" year="2026" image="weekend-special.jpg" url="">
+      <summary>Buy one, get one: a bold weekend offer built around one unmissable line.</summary>
+    </project>
+    <project number="04" title="We're Open!" category="Poster design" year="2026" image="were-open.jpg" url="">
+      <summary>An opening-day announcement with a big, friendly headline and fresh-baked warmth.</summary>
+    </project>
+  </work>
+
+  <timeline>
+    <entry year="2026" title="Training at DJL" text="Showing up, doing the work, and learning what progress really looks like."/>
+  </timeline>
+
+  <proof>
+    <!-- Add a testimonial when you have one:
+    <testimonial quote="..." by="..." role="..."/>
+    -->
+  </proof>
+
+  <availability status="Open to a chat" note="I read everything"/>
+  <resume href="" label="Download CV"/>
+
+  <links>
+    <link label="Instagram" url="https://instagram.com/calinos"/>
+  </links>
+
+  <contact blurb="Have a project, an opportunity, or just a good idea? My inbox is always open — I read everything."/>
+</portfolio>
